@@ -1,0 +1,58 @@
+.logo{
+    height: 65px;
+    margin: 15px;
+}
+h4{
+    margin-top:10px;
+}
+h6{
+    color: black;
+}
+.card-text{
+display: flex;    
+}
+.card-link1{
+    color: #0e3f76;
+    display: flex;
+    justify-content: flex-start;
+}
+.price{
+    color: #7ab338;
+}
+.table-primary{
+    text-align: center;
+    color:#0e3f76;
+}
+.card-body{
+    display: flex;
+}
+.text{
+    margin: 10px;
+}
+.container{
+    margin-top:10px;
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -47px;
+}
+input{
+    width: 50px;
+}
+.work{
+    display: flex;
+    margin-top: 5px;
+}
+.input-group-text{
+    color: white;
+}
+.m{
+    width:60px;
+    text-align: center;
+}
+.mb-3{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 0px;
+}
